@@ -1,0 +1,5 @@
+C:\Users\bruno\source\repos\Dio Series\Dio Series\bin\Debug\net5.0\publish\Dio Series.exe
+C:\Users\bruno\source\repos\Dio Series\Dio Series\bin\Debug\net5.0\publish\Dio Series.dll
+C:\Users\bruno\source\repos\Dio Series\Dio Series\bin\Debug\net5.0\publish\Dio Series.deps.json
+C:\Users\bruno\source\repos\Dio Series\Dio Series\bin\Debug\net5.0\publish\Dio Series.runtimeconfig.json
+C:\Users\bruno\source\repos\Dio Series\Dio Series\bin\Debug\net5.0\publish\Dio Series.pdb
